@@ -69,7 +69,7 @@ const Footer = () => {
               accessible on mobile and online for everyone
             </Typography>
             <Typography variant="body2" color="inherit">
-              ©vHealth PTY LTD 2020. All rights reserved
+              ©Techonomics 2020. All rights reserved
             </Typography>
           </Grid>
 
@@ -114,21 +114,21 @@ const Footer = () => {
           <Typography variant="body2" color="inherit">
             Created by{" "}
             <a
-              href="https://shantanudeshmukh.com/"
+              href="https://techonomics.ai/"
               target="_blank"
               style={{ color: "#FFF" }}
             >
-              Shantanu Deshmukh
+              Techonomics
             </a>
           </Typography>
           <Typography variant="body2" color="inherit">
             Designed by
             <a
-              href="https://dribbble.com/slabdsgn"
+              href="https://linkedin.com/company/techonomics"
               target="_blank"
               style={{ color: "#FFF", margin: 5 }}
             >
-              SLAB Design Studio
+              Techonomics
             </a>
           </Typography>
         </Grid>
